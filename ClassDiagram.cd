@@ -1,63 +1,63 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Animal" Collapsed="true">
-    <Position X="11.5" Y="1.25" Width="1.5" />
+    <Position X="10.75" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAgIAAAAAAEAAA=</HashCode>
       <FileName>Source.cpp</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Cat" Collapsed="true">
-    <Position X="10.75" Y="4.25" Width="1.5" />
+    <Position X="8.5" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAEIQAAAAAAAAAAAAAAAAAAACAAAAAAAAEAAA=</HashCode>
       <FileName>Source.cpp</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Parrot" Collapsed="true">
-    <Position X="16.75" Y="2.5" Width="1.5" />
+    <Position X="15.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAEIAAAAAAAAAAAAAAAAAAAAAAAAABQAAEAAA=</HashCode>
       <FileName>Source.cpp</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Penguin" Collapsed="true">
-    <Position X="14.25" Y="4.25" Width="1.5" />
+    <Position X="11.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAEIAAAAAAAAAAAAAAAAAAACAAIAAAAAAEAAA=</HashCode>
       <FileName>Source.cpp</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Elephant" Collapsed="true">
-    <Position X="10.75" Y="2.75" Width="1.5" />
+    <Position X="7.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>gAAAAAAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
       <FileName>Source.cpp</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Duck" Collapsed="true">
-    <Position X="17" Y="4" Width="1.5" />
+    <Position X="13.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAEIAAAAAAAAAAAEAAAAAAACAAAAABAAAEAAA=</HashCode>
       <FileName>Source.cpp</FileName>
     </TypeIdentifier>
   </Class>
   <Struct Name="IAnimal" Collapsed="true">
-    <Position X="13.75" Y="1.25" Width="1.5" />
+    <Position X="8.75" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Source.cpp</FileName>
     </TypeIdentifier>
   </Struct>
   <Struct Name="IBird" Collapsed="true">
-    <Position X="18.5" Y="1.25" Width="1.5" />
+    <Position X="13.25" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
       <FileName>Source.cpp</FileName>
     </TypeIdentifier>
   </Struct>
   <Struct Name="ISwim" Collapsed="true">
-    <Position X="16" Y="1.25" Width="1.5" />
+    <Position X="11.25" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
       <FileName>Source.cpp</FileName>
